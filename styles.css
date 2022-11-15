@@ -1,0 +1,5 @@
+.green, .dark, .white, .yellow {
+    height: 1rem;
+    width: 1rem;
+    border-radius: 50%;
+}
